@@ -1,0 +1,6 @@
+-J-Xms1G
+-J-Xmx3G
+-J-Xss100M
+-J-XX:ReservedCodeCacheSize=512M
+
+
